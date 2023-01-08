@@ -15,5 +15,6 @@ If you want to revert the changes, open enable-defender.cmd
 3. Easy to use
 ### Cons
 1. You may get notifications to turn on windows defender (disable them from Windows Security app)
+2. Does not work on Windows 11
 ---
 ###### Copyright (C) 2023 Vichingo455. All rights reserved.
