@@ -20,5 +20,5 @@ If you want to revert the changes, open enable-defender.cmd
 - [x] Remove Turn On virus protection notification spam
 - [ ] Make it working on Windows 11
 - [ ] Make a GUI
---
+---
 ###### Copyright (C) 2023 Vichingo455. All rights reserved.
