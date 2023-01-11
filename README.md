@@ -6,6 +6,7 @@ A little tool coded in batch to disable Windows Defender
 2. Unzip the zip package
 3. Run disable-defender.cmd and wait
 4. Done
+
 If you want to revert the changes, open enable-defender.cmd
 ---
 ## Pro and cons
