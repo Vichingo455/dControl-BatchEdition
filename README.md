@@ -14,7 +14,11 @@ If you want to revert the changes, open enable-defender.cmd
 2. Works with Tamper Protection turned on
 3. Easy to use
 ### Cons
-1. You may get notifications to turn on windows defender (disable them from Windows Security app)
-2. Does not work on Windows 11
+1. Does not work on Windows 11
 ---
+## Workaround
+- [x] Remove Turn On virus protection notification spam
+- [ ] Make it working on Windows 11
+- [ ] Make a GUI
+--
 ###### Copyright (C) 2023 Vichingo455. All rights reserved.
