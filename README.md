@@ -8,6 +8,7 @@ A little tool coded in batch to disable Windows Defender
 4. Done
 
 If you want to revert the changes, open enable-defender.cmd
+
 ---
 ## Pro and cons
 ### Pro
